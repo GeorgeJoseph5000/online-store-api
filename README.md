@@ -1,6 +1,6 @@
 <!-- Project title -->
 # Online Store API
-
+This project was developed for the purpose of fulfilling the requirements of the second project of the EgFWD initiative through Udacity.
 # Installation
 
 To use this project, you need to follow the commands below:
